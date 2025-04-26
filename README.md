@@ -36,7 +36,7 @@ cd Build_Forrest_LLM
 - Upload the notebook files from your cloned repository
 - Each notebook contains the necessary setup code to install dependencies
 
-### Opention 1: Local Machine Setup (Required for Fine-tuned Instruction Model)
+### Opention 2: Local Machine Setup (Required for Fine-tuned Instruction Model)
 
 1. Clone the repository
 
